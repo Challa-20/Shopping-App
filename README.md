@@ -16,4 +16,5 @@ In this shopping app we can get access to following list of things
   7. To make payment
    
   8. To exit
+  
 This code even shows the images of the mobiles
